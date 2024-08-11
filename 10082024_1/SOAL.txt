@@ -1,0 +1,22 @@
+Mei ditugaskan untuk mencatat absensi seluruh mahasiswa yang hadir. Setiap kali mahasiswa hadir,
+mahasiswa harus mengumpulkan kertas kehadiran berisi NIM kepada Karin. Buatlah program untuk membantu
+Karin mencatat berapa kali suatu mahasiswa hadir. NIM mahasiswa tidak lebih dari 3 digit.
+
+Format Input
+Masukkan jumlah kertas kehadiran : 10
+Masukkan NIM mahasiswa : 89
+Masukkan NIM mahasiswa : 230
+Masukkan NIM mahasiswa : 89
+Masukkan NIM mahasiswa : 89
+Masukkan NIM mahasiswa : 100
+Masukkan NIM mahasiswa : 100
+Masukkan NIM mahasiswa : 74
+Masukkan NIM mahasiswa : 74
+Masukkan NIM mahasiswa : 89
+
+Format Output
+Rekap kehadiran mahasiswa :
+74 - 2 kali
+89 - 4 kali
+100 - 2 kali
+230 - 1 kali
