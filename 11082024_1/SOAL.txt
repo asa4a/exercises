@@ -1,0 +1,26 @@
+DESKRIPSI
+Suatu bilangan bulat N akan dikatakan beruntung jika dan hanya jika terdapat suatu bilangan bulat X
+dimana X > N dan
+1 + 2 + 3 + ... + (N-1) = (N+1) + (N + 2) + ... + X
+Hitunglah jumlah bilangan yang beruntung apabila diberikan nilai maksimal dari X!
+
+FORMAT MASUKAN
+Baris pertama berupa satu bilangan T (jumlah testcase)
+T baris berikutnya berisi suatu bilangan yang menandakan nilai X maksimalnya!
+
+FORMAT KELUARAN
+Untuk setiap testcase, keluarkan 1 angka yang menandakan jumlah angka yang beruntung dengan nilai X
+maksimal sesuai masukan!
+
+**batasan dan subsoal tidak dicantumkan di file ini
+
+CONTOH MASUKAN 1
+2
+7
+8
+
+CONTOH KELUARAN 1
+0
+1
+
+**penjelasan contoh 1 tidak dicantumkan di file ini
