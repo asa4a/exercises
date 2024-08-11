@@ -1,0 +1,28 @@
+Charlie adalah salah satu tamu undangan dalam suatu acara pernikahan. Pesta pernikahan ini merupakan pesta
+pernikahan yang unik, karena semua mobil diparkirkan dalam rentang nilai tertentu. Namun, ketika Charlie kembali,
+mobil Charlie hilang. Sialnya, ia lupa dengan nomor platnya. Buatlah program yang dapat menentukan nomor plat
+mobil yang dimiliki Charlie
+
+Format input 1
+Masukkan jumlah mobil : 5
+Masukkan 4 nomor mobil yang ada :
+1203
+1204
+1208
+1205
+1206
+
+Format input 2
+Masukkan jumlah mobil : 5
+Masukkan 4 nomor mobil yang ada :
+1203
+1204
+1207
+1205
+1206
+
+Format output 1
+Mobil Charlie adalah mobil dengan nomor 1207
+
+Format output 2
+Tidak ada mobil yang merupakan mobil Charlie
